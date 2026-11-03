@@ -128,16 +128,17 @@ Beyond academics, I contribute to college life through event leadership and phot
 
 <br/>
 
-<h2 align="center">◆ &nbsp;GitHub Analytics&nbsp; ◆</h2>
+<h2 align="center">◆ &nbsp;GitHub at a Glance&nbsp; ◆</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rutujajadhav08&show_icons=true&hide_border=true&bg_color=0d0710&title_color=f06da6&icon_color=d6246e&text_color=f3d9e6&ring_color=d6246e&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujajadhav08&layout=compact&hide_border=true&bg_color=0d0710&title_color=f06da6&text_color=f3d9e6" alt="Top languages" />
+<a href="https://github.com/rutujajadhav08"><img src="https://img.shields.io/github/followers/rutujajadhav08?style=for-the-badge&logo=github&logoColor=fbe9f2&label=Followers&labelColor=1a0b14&color=d6246e" alt="Followers" /></a>
+<a href="https://github.com/rutujajadhav08?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-d6246e?style=for-the-badge&logo=github&logoColor=fbe9f2&labelColor=1a0b14" alt="Repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=rutujajadhav08&style=for-the-badge&label=Profile%20Views&color=d6246e&labelColor=1a0b14" alt="Profile views" />
 
-<img src="https://streak-stats.demolab.com?user=rutujajadhav08&hide_border=true&background=0d0710&ring=d6246e&fire=f06da6&currStreakLabel=f3d9e6&sideLabels=f3d9e6&currStreakNum=ffffff&sideNums=ffffff&dates=b79aab" alt="Streak" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutujajadhav08&bg_color=0d0710&color=f3d9e6&line=d6246e&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph" />
+<sub><i>Detailed contribution stats will be added once more projects are public.</i></sub>
 
 </div>
 
