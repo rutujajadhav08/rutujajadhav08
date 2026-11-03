@@ -1,129 +1,159 @@
 <!--
   HOW TO USE
-  1. On GitHub, create a PUBLIC repo named exactly: rutujajadhav08  (same as your username)
-  2. Tick "Add a README", then replace its content with this file
-  3. Search for "TODO" (only the Projects section) and fill it in
+  1. Repo name must be exactly: rutujajadhav08 (public, with README)
+  2. Replace the README content with this file
+  3. Fill in the Projects section (search for "TODO")
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0710,50:7a1048,100:d6246e&height=220&section=header&text=RUTUJA%20JADHAV&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=B.Tech%20IT%20%C2%B7%20Aspiring%20Full-Stack%20Developer%20%C2%B7%20Engineering%20intelligence.%20Designing%20experiences.&descSize=15&descAlignY=60" width="100%" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D6246E&center=true&vCenter=true&width=700&lines=B.Tech+IT+%40+MGM+University;Minor+in+Data+Science;Full-Stack+%C2%B7+DSA+in+C%2B%2B+%C2%B7+AI%2FML+%C2%B7+Cloud;National+AI+Hackathon+Second+Runner-Up)](https://github.com/rutujajadhav08)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0710,45:5c0f3a,100:d6246e&height=260&section=header&text=Rutuja%20Jadhav&fontColor=fbe9f2&fontSize=60&fontAlign=50&fontAlignY=42&desc=Information%20Technology%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Data%20Science&descColor=f3c4da&descSize=17&descAlignY=64&animation=fadeIn" width="100%" alt="Rutuja Jadhav" />
 
-<a href="https://www.linkedin.com/in/rutuja-jadhav-040aa52b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d6246e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0710" /></a>
-<a href="https://github.com/rutujajadhav08"><img src="https://img.shields.io/badge/GitHub-rutujajadhav08-d6246e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0710" /></a>
-<a href="mailto:jadhavrutuja752@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-d6246e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0710" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&duration=3200&pause=1100&color=F06DA6&center=true&vCenter=true&width=720&height=40&lines=Engineering+intelligence.+Designing+experiences.;B.Tech+IT+Student+at+MGM+University;Minor+in+Data+Science+%7C+DSA+in+C%2B%2B;Second+Runner-Up%2C+National+Level+AI+Hackathon" alt="Typing animation" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rutuja-jadhav-040aa52b8/"><img src="https://img.shields.io/badge/LinkedIn-Rutuja%20Jadhav-d6246e?style=for-the-badge&logo=linkedin&logoColor=fbe9f2&labelColor=1a0b14" alt="LinkedIn" /></a>
+<a href="mailto:jadhavrutuja752@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-d6246e?style=for-the-badge&logo=gmail&logoColor=fbe9f2&labelColor=1a0b14" alt="Email" /></a>
+<a href="https://github.com/rutujajadhav08"><img src="https://img.shields.io/badge/GitHub-rutujajadhav08-d6246e?style=for-the-badge&logo=github&logoColor=fbe9f2&labelColor=1a0b14" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Location-Chhatrapati%20Sambhajinagar%2C%20India-1a0b14?style=flat-square&labelColor=1a0b14&color=7a1048" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-1a0b14?style=flat-square&labelColor=1a0b14&color=7a1048" />
 
 </div>
 
----
+<br/>
 
-### `01` &nbsp;ABOUT
+<h2 align="center">◆ &nbsp;About Me&nbsp; ◆</h2>
 
-```bash
-$ whoami
-> Rutuja Jadhav · B.Tech IT Student · Aspiring Full-Stack Developer
+<p align="center">
+<i>I enjoy turning ideas into practical technology solutions, building my skills through<br/>
+projects, hackathons, technical events and workshops.</i>
+</p>
 
-$ cat education.txt
-> B.Tech, Information Technology · MGM University, Chh. Sambhajinagar · since July 2023
-> Minor in Data Science
+I am a Bachelor of Technology student in **Information Technology** at **MGM University, Chhatrapati Sambhajinagar**, pursuing a **Minor in Data Science**. My interests span full-stack web development, backend engineering, data structures and algorithms in C++, and data science. I am currently exploring machine learning, data visualization, cybersecurity and blockchain technologies.
 
-$ cat focus.txt
-> Full-stack web development · Backend · DSA in C++ · Data Science
-> Exploring: Machine Learning · Cybersecurity · Blockchain · Cloud (AWS)
+Beyond academics, I contribute to college life through event leadership and photography, which has strengthened my teamwork, communication, coordination and problem-solving skills.
 
-$ cat mission.txt
-> Turning ideas into practical technology, one project, hackathon and workshop at a time.
-```
+<br/>
 
----
+<h2 align="center">◆ &nbsp;Education&nbsp; ◆</h2>
 
-### `02` &nbsp;THE TOOLS I REACH FOR
+<table align="center">
+<tr>
+<td align="center" width="33%"><b>B.Tech, Information Technology</b><br/>Minor in Data Science<br/><sub>MGM University, Aurangabad<br/>From July 2023</sub></td>
+<td align="center" width="33%"><b>Higher Secondary (HSC)</b><br/>Computer Science<br/><sub>Maharashtra Udaygiri Mahavidyalaya, Udgir<br/>2022 – 2023</sub></td>
+<td align="center" width="33%"><b>Secondary School (SSC)</b><br/>Maharashtra State Board<br/><sub>Shamarya Kanya Vidyalaya, Udgir<br/>2020 – 2021</sub></td>
+</tr>
+</table>
 
-| | |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0d0710?style=flat-square&logo=python&logoColor=d6246e) ![Java](https://img.shields.io/badge/Java-0d0710?style=flat-square&logo=openjdk&logoColor=d6246e) ![C++](https://img.shields.io/badge/C++-0d0710?style=flat-square&logo=cplusplus&logoColor=d6246e) ![JavaScript](https://img.shields.io/badge/JavaScript-0d0710?style=flat-square&logo=javascript&logoColor=d6246e) |
-| **Frontend** | ![React](https://img.shields.io/badge/React.js-0d0710?style=flat-square&logo=react&logoColor=d6246e) ![HTML5](https://img.shields.io/badge/HTML5-0d0710?style=flat-square&logo=html5&logoColor=d6246e) ![CSS3](https://img.shields.io/badge/CSS3-0d0710?style=flat-square&logo=css3&logoColor=d6246e) |
-| **Data** | ![SQL](https://img.shields.io/badge/SQL-0d0710?style=flat-square&logo=mysql&logoColor=d6246e) ![MongoDB](https://img.shields.io/badge/MongoDB-0d0710?style=flat-square&logo=mongodb&logoColor=d6246e) |
-| **Cloud** | ![EC2](https://img.shields.io/badge/Amazon_EC2-0d0710?style=flat-square&logo=amazonec2&logoColor=d6246e) ![S3](https://img.shields.io/badge/Amazon_S3-0d0710?style=flat-square&logo=amazons3&logoColor=d6246e) ![Cloud](https://img.shields.io/badge/Cloud_Architecture_Basics-0d0710?style=flat-square&logo=amazonwebservices&logoColor=d6246e) |
-| **Exploring** | ![ML](https://img.shields.io/badge/Machine_Learning-0d0710?style=flat-square&logo=scikitlearn&logoColor=d6246e) ![Data Viz](https://img.shields.io/badge/Data_Visualization-0d0710?style=flat-square&logo=plotly&logoColor=d6246e) ![Blockchain](https://img.shields.io/badge/Blockchain-0d0710?style=flat-square&logo=ethereum&logoColor=d6246e) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d0710?style=flat-square&logo=hackthebox&logoColor=d6246e) |
+<br/>
 
----
+<h2 align="center">◆ &nbsp;Technical Skills&nbsp; ◆</h2>
 
-### `03` &nbsp;PRODUCTS, NOT ASSIGNMENTS
+<div align="center">
 
-<!-- TODO: add your real projects below. Copy a block per project, then delete this comment. -->
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,react,mysql,mongodb,aws,git,github,vscode&theme=dark&perline=13" alt="Skills" />
+
+<br/><br/>
 
 <table>
+<tr><td align="right"><b>Languages</b></td><td>Python · Java · C++ · JavaScript</td></tr>
+<tr><td align="right"><b>Web</b></td><td>React.js · HTML · CSS</td></tr>
+<tr><td align="right"><b>Databases</b></td><td>SQL · MongoDB</td></tr>
+<tr><td align="right"><b>Cloud</b></td><td>Amazon EC2 · Amazon S3 · Cloud Architecture Basics</td></tr>
+<tr><td align="right"><b>Core</b></td><td>Data Structures &amp; Algorithms (C++)</td></tr>
+<tr><td align="right"><b>Exploring</b></td><td>Machine Learning · Data Visualization · Cybersecurity · Blockchain</td></tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">◆ &nbsp;Achievements&nbsp; ◆</h2>
+
+<div align="center">
+
+| | Recognition | Details |
+|:-:|:--|:--|
+| 🏆 | **Second Runner-Up** | National Level AI Hackathon |
+| 🥇 | **First Rank** | Second Year, B.Tech Information Technology |
+| 🥈 | **Second Rank** | Third Year, B.Tech Information Technology |
+| 📜 | **Certification** | Technophilia 2025, A National Level Technical Event |
+
+</div>
+
+<br/>
+
+<h2 align="center">◆ &nbsp;Leadership &amp; Activities&nbsp; ◆</h2>
+
+<div align="center">
+
+| Role | Organisation | Period |
+|:--|:--|:--|
+| Photography Member | IEEE, MGM University | Jan 2026 – Present |
+| Fun Games Event Head | Spectacle, IICT MGM University | Jan 2026 |
+| Discipline Committee Member | Spectacle, IICT MGM University | Jan 2026 |
+
+</div>
+
+<br/>
+
+<h2 align="center">◆ &nbsp;Featured Projects&nbsp; ◆</h2>
+
+<!-- TODO: replace the placeholders below with your real projects, then delete this comment. -->
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-#### TODO Project Name
-TODO One sentence on the problem it solves.
-
-`TODO stack` · `TODO stack` · `TODO stack`
-
-[Repository](https://github.com/rutujajadhav08/TODO) · [Live demo](TODO)
+**TODO Project Name**<br/>
+<sub>TODO One sentence on the problem it solves.</sub><br/><br/>
+`TODO stack` &nbsp; `TODO stack` &nbsp; `TODO stack`<br/><br/>
+[Repository](https://github.com/rutujajadhav08/TODO) &nbsp;·&nbsp; [Live Demo](TODO)
 
 </td>
 <td width="50%" valign="top">
 
-#### TODO Project Name
-TODO One sentence on the problem it solves.
-
-`TODO stack` · `TODO stack` · `TODO stack`
-
-[Repository](https://github.com/rutujajadhav08/TODO) · [Live demo](TODO)
+**TODO Project Name**<br/>
+<sub>TODO One sentence on the problem it solves.</sub><br/><br/>
+`TODO stack` &nbsp; `TODO stack` &nbsp; `TODO stack`<br/><br/>
+[Repository](https://github.com/rutujajadhav08/TODO) &nbsp;·&nbsp; [Live Demo](TODO)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### `04` &nbsp;PROOF, ON THE RECORD
-
-| | |
-|---|---|
-| 🏆 **Second Runner-Up** | National Level AI Hackathon |
-| 🥇 **First Rank** | Second Year, B.Tech IT |
-| 🥈 **Second Rank** | Third Year, B.Tech IT |
-| 📜 **Certification** | Technophilia 2025: A National Level Technical Event |
-
----
-
-### `05` &nbsp;BEYOND THE CODE
-
-- 📸 **Photography Member**, IEEE, MGM University (Jan 2026 – present)
-- 🎪 **Fun Games Event Head**, Spectacle, IICT MGM University (Jan 2026)
-- 🛡️ **Discipline Committee Member**, Spectacle, IICT MGM University (Jan 2026)
-
-Teamwork, event coordination, communication and problem-solving, practised off the keyboard too.
-
----
-
-### `06` &nbsp;A YEAR OF BUILDING
+<h2 align="center">◆ &nbsp;GitHub Analytics&nbsp; ◆</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rutujajadhav08&show_icons=true&hide_border=true&bg_color=0d0710&title_color=d6246e&icon_color=d6246e&text_color=e8d9e1&ring_color=d6246e&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujajadhav08&layout=compact&hide_border=true&bg_color=0d0710&title_color=d6246e&text_color=e8d9e1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rutujajadhav08&show_icons=true&hide_border=true&bg_color=0d0710&title_color=f06da6&icon_color=d6246e&text_color=f3d9e6&ring_color=d6246e&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujajadhav08&layout=compact&hide_border=true&bg_color=0d0710&title_color=f06da6&text_color=f3d9e6" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=rutujajadhav08&hide_border=true&background=0d0710&ring=d6246e&fire=d6246e&currStreakLabel=e8d9e1&sideLabels=e8d9e1&currStreakNum=ffffff&sideNums=ffffff&dates=b79aab" />
+<img src="https://streak-stats.demolab.com?user=rutujajadhav08&hide_border=true&background=0d0710&ring=d6246e&fire=f06da6&currStreakLabel=f3d9e6&sideLabels=f3d9e6&currStreakNum=ffffff&sideNums=ffffff&dates=b79aab" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutujajadhav08&bg_color=0d0710&color=e8d9e1&line=d6246e&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutujajadhav08&bg_color=0d0710&color=f3d9e6&line=d6246e&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
 
----
+<br/>
 
-### `07` &nbsp;LET'S BUILD SOMETHING WORTH EXPLAINING
+<h2 align="center">◆ &nbsp;Let's Connect&nbsp; ◆</h2>
+
+<p align="center">
+<i>Open to learning opportunities, collaborations and conversations about technology.</i>
+</p>
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/rutuja-jadhav-040aa52b8/)** &nbsp;·&nbsp; **[Email](mailto:jadhavrutuja752@gmail.com)** &nbsp;·&nbsp; **[GitHub](https://github.com/rutujajadhav08)**
+<a href="https://www.linkedin.com/in/rutuja-jadhav-040aa52b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d6246e?style=for-the-badge&logo=linkedin&logoColor=fbe9f2&labelColor=1a0b14" /></a>
+<a href="mailto:jadhavrutuja752@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-d6246e?style=for-the-badge&logo=gmail&logoColor=fbe9f2&labelColor=1a0b14" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6246e,50:7a1048,100:0d0710&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6246e,55:5c0f3a,100:0d0710&height=130&section=footer&text=Thank%20you%20for%20visiting&fontColor=fbe9f2&fontSize=20&fontAlignY=70" width="100%" alt="footer" />
 
 </div>
